@@ -1,0 +1,5 @@
+{
+  "name": "tldr",
+  "version": "0.1.0",
+  "description": "长回答结束后自动在下方附一句中文 TL;DR 总结"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "token-usage",
+  "version": "0.1.0",
+  "description": "Token 用量实时面板：上下文占用、累计用量、缓存命中、限额预测、费用与一键压缩",
+  "types": "./types/index.d.ts"
+}

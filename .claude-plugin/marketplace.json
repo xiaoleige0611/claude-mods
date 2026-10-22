@@ -1,0 +1,24 @@
+{
+  "name": "local-mods",
+  "owner": {
+    "name": "edy"
+  },
+  "plugins": [
+    {
+      "name": "token-usage",
+      "source": "./token-usage"
+    },
+    {
+      "name": "command-guard",
+      "source": "./command-guard"
+    },
+    {
+      "name": "tldr",
+      "source": "./tldr"
+    },
+    {
+      "name": "snippets",
+      "source": "./snippets"
+    }
+  ]
+}

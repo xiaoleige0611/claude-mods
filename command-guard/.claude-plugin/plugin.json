@@ -1,0 +1,5 @@
+{
+  "name": "command-guard",
+  "version": "0.1.0",
+  "description": "危险命令守卫：删根目录直接拒绝；强推、硬重置、删表、改生产配置先弹窗确认"
+}

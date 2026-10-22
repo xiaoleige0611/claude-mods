@@ -1,0 +1,5 @@
+{
+  "name": "snippets",
+  "version": "0.1.0",
+  "description": "常用提示词片段：输入 # 弹出候选，选中后整段填入输入框；/snippets 查看全部"
+}
