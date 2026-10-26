@@ -30,17 +30,6 @@ claude plugin install token-usage --marketplace xiaoleige0611/claude-mods
 
 桌面版里 `/plugin` 不可用：点输入框旁的 **+** → Plugins → Add marketplace，填 `xiaoleige0611/claude-mods`，再 Add plugin。
 
-## 私有仓库的前提
-
-这是私有仓库，只有被邀请为协作者的 GitHub 账号能安装，而且本机要已经配置好 github.com 的 git 凭据（安装过程不会弹出登录）：
-
-```
-gh auth login
-gh auth setup-git
-```
-
-或者配置好 SSH key。
-
 ## 更新
 
 ```
